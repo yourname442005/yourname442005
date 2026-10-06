@@ -132,13 +132,11 @@ One of the projects I'm using to explore practical security and application engi
 
 <div align="center">
 
-### 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
-  <img alt="github contribution snake" src="./github-snake.svg" width="90%">
-</picture>
+<img
+  src="https://raw.githubusercontent.com/yourname442005/yourname442005/output/github-snake-dark.svg"
+  width="90%"
+  alt="GitHub contribution snake"
+/>
 
 </div>
 
