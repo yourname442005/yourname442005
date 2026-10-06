@@ -1,241 +1,437 @@
 <div align="center">
 
-# Hey, I'm Shuvankar 👋
-
-### `Full-Stack Developer` • `Cybersecurity Enthusiast` • `AI Builder`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+things+that+solve+real+problems.;Full-Stack+%7C+AI+%7C+Cybersecurity;Turning+ideas+into+working+systems.;Currently+breaking+things+%E2%80%94+then+fixing+them." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SHUVANKAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%7C%20Cybersecurity&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourname442005-181717?style=for-the-badge&logo=github)](https://github.com/yourname442005)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=7DF9FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Shuvankar+%F0%9F%91%8B;I+build+things+that+solve+real+problems.;Full-Stack+Developer+%7C+AI+Explorer;Cybersecurity+Enthusiast+%7C+Hackathon+Builder;Currently+turning+coffee+into+code+%E2%98%95" alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://github.com/yourname442005">
+<img src="https://img.shields.io/badge/GitHub-yourname442005-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=yourname442005&style=for-the-badge&color=7DF9FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧑‍💻 Who Am I?
 
-```text
-> whoami
+<table>
+<tr>
+<td width="55%" valign="top">
 
-Shuvankar
-├── 🎓 B.Tech CSE
-├── 💻 Full-Stack Developer
-├── 🔐 Cybersecurity Enthusiast
-├── 🤖 AI / ML Explorer
-├── 🚀 Hackathon Builder
-└── ☕ Powered by questionable amounts of caffeine
-```
+### 👋 Hey there!
 
-I like building **real systems**, not just tutorial projects.
+I'm **Shuvankar**, a Computer Science student who enjoys turning ideas into actual working systems.
 
-My interests sit at the intersection of:
+I'm particularly interested in:
 
 - 🌐 Full-Stack Development
 - 🔐 Cybersecurity
 - 🤖 AI & Machine Learning
 - ⚙️ Backend Engineering
-- 🧩 System Design
+- 🧠 System Design
 - 🚀 Hackathons & Experimental Projects
 
-Currently focused on building projects that are **useful, secure, and actually deployable**.
+I like projects where I have to figure things out rather than simply follow a tutorial.
+
+</td>
+
+<td width="45%" valign="top">
+
+### 🧠 Current State
+
+```text
+╭────────────────────────────╮
+│      DEVELOPER STATUS      │
+├────────────────────────────┤
+│                            │
+│ 🟢 Coding       ONLINE     │
+│ 🟢 Learning     ACTIVE     │
+│ 🟢 Building     ACTIVE     │
+│ 🟡 Sleep        LOW        │
+│ 🔴 Bugs         MANY       │
+│                            │
+╰────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ What I'm Building
+# 🚀 What I'm Building
 
-### 🏙️ SpotnFix
+<table>
+<tr>
 
-> A civic issue reporting platform designed to connect citizens, administrators, and field workers.
+<td width="50%" valign="top">
 
-**Stack:** `Node.js` `Express` `MongoDB` `JavaScript` `Python`
+## 🏙️ SpotnFix
 
-Features include:
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
+
+A civic issue reporting platform connecting **citizens, administrators and field workers**.
+
+### ⚡ Highlights
 
 - 📍 Civic issue reporting
 - 📸 Image evidence processing
-- 👤 Role-based authentication
-- 🔐 Session-based security
+- 🔐 Secure authentication
+- 👥 Role-based authorization
 - 🧑‍💼 Admin verification
-- 👷 Department / field-worker assignment
+- 👷 Department assignment
 - 🔄 Complete report lifecycle
-- 🛡️ Security-focused API authorization
+- 🛡️ Security-focused APIs
 
----
+**Stack**
 
-### 🧠 ULPF
+`Node.js` `Express` `MongoDB` `JavaScript` `Python`
 
-> **Universal Log Pre-processing Framework**
+</td>
 
-A system focused on preprocessing and handling logs before downstream analysis.
+<td width="50%" valign="top">
 
-**Stack:** `Python` `FastAPI` `React` `Vite` `PostgreSQL` `Web3`
+## 🧠 ULPF
 
-Working with:
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square"/>
+
+**Universal Log Pre-processing Framework**
+
+A framework designed to process and prepare logs for downstream analysis.
+
+### ⚡ Highlights
 
 - 📄 Log ingestion
 - 🔍 Evidence processing
-- 🧹 Pre-processing pipelines
+- 🧹 Log preprocessing
 - 🔐 Integrity verification
-- ⛓️ Blockchain-backed verification
-- 🧠 ML-ready data pipelines
+- ⛓️ Blockchain verification
+- 🧠 ML-ready pipelines
 
----
+**Stack**
 
-### 🔬 CKGAI
+`Python` `FastAPI` `React` `Vite` `PostgreSQL` `Web3`
 
-> A social and AI-powered platform built for researchers.
+</td>
 
-**Stack:** `Next.js` `React` `FastAPI` `PostgreSQL` `pgvector` `AI`
+</tr>
 
-Exploring:
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔬 CKGAI
+
+<img src="https://img.shields.io/badge/STATUS-EXPLORING-7C4DFF?style=flat-square"/>
+
+An AI-powered platform built around the **researcher ecosystem**.
+
+### ⚡ Exploring
 
 - 🤖 AI-assisted research
-- 🔎 Hybrid search
+- 🔎 Semantic search
 - 🧬 Knowledge graphs
 - 📚 Research discovery
 - 👥 Researcher networking
-- 🧠 Semantic embeddings
+- 🧠 Embeddings
 - ⚙️ Full-stack architecture
+
+**Stack**
+
+`Next.js` `React` `FastAPI` `PostgreSQL` `pgvector` `AI`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔐 Forenvault
+
+<img src="https://img.shields.io/badge/FOCUS-SECURITY-E91E63?style=flat-square"/>
+
+A security-focused project exploring the intersection of **software engineering and cybersecurity**.
+
+### 🎯 Focus
+
+- 🔐 Secure application design
+- 🛡️ Security concepts
+- ⚙️ Backend systems
+- 🧩 Practical engineering
+
+**Stack**
+
+`Web` `Backend` `Security`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ My Arsenal
+
+<div align="center">
 
 ### Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
-</p>
+
+<br><br>
 
 ### Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
-</p>
 
-### Backend
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
+### Backend & Databases
 
-### Databases & Infrastructure
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,docker" />
-</p>
+<br><br>
 
-### AI / Data / Security
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+
+</div>
+
+---
+
+# ⚙️ Developer Dashboard
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🌐 FULL-STACK
 
 ```text
-AI / ML
-├── Embeddings
-├── Semantic Search
-├── Knowledge Graphs
-└── ML Pipelines
+Frontend
+██████████████████░░
 
-Security
-├── Authentication
-├── Authorization
-├── Session Security
-├── API Security
-└── Secure Backend Design
+Backend
+████████████████░░░░
+
+APIs
+██████████████████░░
+```
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔐 SECURITY
+
+```text
+Auth
+████████████████░░░░
+
+Authorization
+██████████████████░░
+
+Secure APIs
+███████████████░░░░░
+```
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI / DATA
+
+```text
+AI Systems
+██████████████░░░░░░
+
+Embeddings
+████████████░░░░░░░░
+
+ML Pipelines
+███████████░░░░░░░░░
+```
+
+</td>
+
+</tr>
+</table>
+
+> **Note:** These are visual indicators of what I'm actively working with, not formal skill ratings.
+
+---
+
+# 🖥️ Developer.exe
+
+```bash
+┌──────────────────────────────────────────────────────┐
+│                  terminal@shuvankar                  │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  $ ./developer.sh                                   │
+│                                                      │
+│  Initializing developer...                           │
+│                                                      │
+│  [✓] Frontend loaded                                 │
+│  [✓] Backend connected                               │
+│  [✓] Database connected                              │
+│  [✓] APIs responding                                 │
+│  [✓] Security layer enabled                          │
+│  [✓] Coffee engine started                           │
+│                                                      │
+│  > Building something useful...                      │
+│                                                      │
+│  > npm run deploy                                    │
+│                                                      │
+│  ERROR: Something broke.                             │
+│                                                      │
+│  > debugging...                                      │
+│  > fixing...                                         │
+│  > testing...                                        │
+│                                                      │
+│  [✓] It works.                                       │
+│                                                      │
+│  > Shipping 🚀                                       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| 🏙️ **SpotnFix** | Civic issue reporting & resolution platform | Node.js • MongoDB |
-| 🧠 **ULPF** | Universal log preprocessing framework | Python • FastAPI |
-| 🔬 **CKGAI** | AI-powered researcher platform | Next.js • FastAPI |
-| 🔐 **Forenvault** | Security-focused application | Full-Stack |
-| 🧩 **Reprico** | Full-stack application | Web Stack |
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourname442005&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yourname442005&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname442005&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname442005&layout=compact&hide_border=true&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=yourname442005&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="./assets/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+---
+
+# 🧪 Currently Learning
+
+<table>
+<tr>
+<td>
+
+```text
+01  Advanced Backend Architecture
+02  Cybersecurity
+03  AI / ML Systems
+04  System Design
+05  DevOps
+06  Cloud Infrastructure
+```
+
+</td>
+
+<td>
+
+```text
+████████████████░░░░  Backend
+███████████████░░░░░  Security
+██████████████░░░░░░  AI / ML
+█████████████░░░░░░░  System Design
+███████████░░░░░░░░░  DevOps
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎯 How I Like To Build
+
+<div align="center">
+
+```text
+       IDEA
+        │
+        ▼
+    ┌─────────┐
+    │ DESIGN  │
+    └────┬────┘
+         │
+         ▼
+    ┌─────────┐
+    │  BUILD  │
+    └────┬────┘
+         │
+         ▼
+    ┌─────────┐
+    │  BREAK  │
+    └────┬────┘
+         │
+         ▼
+    ┌─────────┐
+    │ DEBUG   │
+    └────┬────┘
+         │
+         ▼
+    ┌─────────┐
+    │ SECURE  │
+    └────┬────┘
+         │
+         ▼
+    ┌─────────┐
+    │  SHIP   │
+    └─────────┘
+
+      🚀
+```
+
+</div>
+
+---
+
+# 💭 Developer Philosophy
+
+<div align="center">
+
+### **Build it. Break it. Understand it. Secure it. Ship it.**
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yourname442005&theme=tokyonight&hide_border=true" />
+> The goal isn't to write the most code.
+>
+> The goal is to build something worth keeping.
 
 </div>
 
 ---
 
-## 🧪 Currently Learning
-
-```text
-[████████████████████░░]  Next.js / React
-[██████████████████░░░░]  Backend Architecture
-[████████████████░░░░░░]  Cybersecurity
-[███████████████░░░░░░░]  AI / ML
-[██████████████░░░░░░░░]  System Design
-[████████████░░░░░░░░░░]  DevOps
-```
-
----
-
-## 🖥️ Developer.exe
-
-```bash
-$ ./developer.sh
-
-Initializing Shuvankar...
-
-[✓] Frontend loaded
-[✓] Backend connected
-[✓] Database connected
-[✓] Security enabled
-[✓] AI modules initialized
-
-> Building something useful...
-
-> Error: "It works on my machine"
-
-> Fixing...
-
-> Error resolved.
-
-> Shipping 🚀
-```
-
----
-
-## 🎯 My Philosophy
-
-> **Build it. Break it. Understand it. Secure it. Ship it.**
-
-I believe the best way to learn engineering is to build systems that are slightly beyond your current comfort zone.
-
-Sometimes they work.
-
-Sometimes they don't.
-
-Either way, I learn something.
-
----
-
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
-If you're interested in **Full-Stack Development, Cybersecurity, AI, Hackathons, or building interesting projects**, feel free to connect.
+If you're interested in:
+
+**Full-Stack Development • Cybersecurity • AI • Hackathons • Open Source**
+
+come say hi.
 
 <br>
 
@@ -249,10 +445,8 @@ If you're interested in **Full-Stack Development, Cybersecurity, AI, Hackathons,
 
 <div align="center">
 
-### ⚡ `Code → Break → Debug → Learn → Repeat`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=yourname442005&style=flat-square&color=blue" alt="Profile Views"/>
+### `Code → Break → Debug → Learn → Repeat`
 
 </div>
